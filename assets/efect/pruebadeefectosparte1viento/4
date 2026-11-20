@@ -1,0 +1,166 @@
+Untitled
+- Delay -
+active: false
+- Duration - 
+lowMin: 100.0
+lowMax: 100.0
+- Count - 
+min: 50
+max: 171
+- Emission - 
+lowMin: 25.0
+lowMax: 25.0
+highMin: 100.0
+highMax: 100.0
+relative: false
+scalingCount: 3
+scaling0: 1.0
+scaling1: 1.0
+scaling2: 1.0
+timelineCount: 3
+timeline0: 0.0
+timeline1: 0.47945204
+timeline2: 1.0
+- Life - 
+lowMin: 500.0
+lowMax: 500.0
+highMin: 1500.0
+highMax: 1500.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+independent: false
+- Life Offset - 
+active: false
+independent: false
+- X Offset - 
+active: false
+- Y Offset - 
+active: false
+- Spawn Shape - 
+shape: point
+- Spawn Width - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Spawn Height - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 0.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- X Scale - 
+lowMin: 12.0
+lowMax: 12.0
+highMin: 60.0
+highMax: 60.0
+relative: false
+scalingCount: 1
+scaling0: 1.0
+timelineCount: 1
+timeline0: 0.0
+- Y Scale - 
+active: false
+- Velocity - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 150.0
+highMax: 200.0
+relative: false
+scalingCount: 1
+scaling0: 0.84313726
+timelineCount: 1
+timeline0: 0.0
+- Angle - 
+active: true
+lowMin: 0.0
+lowMax: 0.0
+highMin: 0.0
+highMax: 360.0
+relative: false
+scalingCount: 2
+scaling0: 0.09803922
+scaling1: 1.0
+timelineCount: 2
+timeline0: 0.0
+timeline1: 0.69863015
+- Rotation - 
+active: true
+lowMin: 0.0
+lowMax: 360.0
+highMin: 180.0
+highMax: 180.0
+relative: false
+scalingCount: 4
+scaling0: 0.0
+scaling1: 0.0
+scaling2: 0.0
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.41095892
+timeline2: 0.8767123
+timeline3: 0.9726027
+- Wind - 
+active: false
+- Gravity - 
+active: false
+- Tint - 
+colorsCount: 12
+colors0: 0.8352941
+colors1: 0.8666667
+colors2: 0.9411765
+colors3: 0.7254902
+colors4: 0.7294118
+colors5: 0.80784315
+colors6: 0.5176471
+colors7: 0.5372549
+colors8: 0.54509807
+colors9: 0.39607844
+colors10: 0.4117647
+colors11: 0.41568628
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.30834752
+timeline2: 0.67632025
+timeline3: 1.0
+- Transparency - 
+lowMin: 0.0
+lowMax: 0.0
+highMin: 1.0
+highMax: 1.0
+relative: false
+scalingCount: 4
+scaling0: 0.24561404
+scaling1: 0.64912283
+scaling2: 0.3508772
+scaling3: 0.0
+timelineCount: 4
+timeline0: 0.0
+timeline1: 0.13013698
+timeline2: 0.60958904
+timeline3: 0.96575344
+- Options - 
+attached: false
+continuous: false
+aligned: false
+additive: true
+behind: false
+premultipliedAlpha: false
+spriteMode: single
+- Image Paths -
+Sirve tambien para viento.png
+
